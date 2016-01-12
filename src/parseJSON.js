@@ -4,4 +4,9 @@
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
   // your code goes here
+  for (var i=0;i<json.length;i++){
+
+  }
+
+  
 };
